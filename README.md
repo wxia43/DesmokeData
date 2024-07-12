@@ -1,9 +1,8 @@
-# VerSe: Large Scale Vertebrae Segmentation Challenge
+# Benchmark Dataset for Laparoscopic Image Desmoking
 
-_Look well to the spine for the cause of disease_ - Hippocrates
 
-![VerSe examples. Observe the variability in data: field-of-view, fractures, transitional vertebrae, etc.](assets/dataset_snapshot.png)
-*VerSe examples. Observe the variability in data: field-of-view, fractures, transitional vertebrae, etc.*
+![Benchmark dataset to evaluate laparoscopic image desmoking techniques, will be available in October 2024.](assets/dataset_snapshot.png)
+*Benchmark dataset to evaluate laparoscopic image desmoking techniques, will be available in October 2024.*
 
 <details><summary>Table of Contents</summary><p>
 
