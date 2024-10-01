@@ -2,6 +2,7 @@
 
 
 ![Benchmark dataset to evaluate laparoscopic image desmoking techniques, will be available in October 2024.](images/dataset_snapshot.png)
+
 *Benchmark dataset to evaluate laparoscopic image desmoking techniques, will be available in October 2024.*
 
 <details><summary>Table of Contents</summary><p>
