@@ -6,38 +6,29 @@
 
 <details><summary>Table of Contents</summary><p>
 
-* [What is VerSe?](#what-is-verse)
-* [Citing VerSe](#citing-verse)
+* [What is this dataset?](#what-is-verse)
+* [Citing This Dataset](#citing-verse)
 * [Data](#data)
-* [Download](#download)
-* [License](#license)
-* [Code](#code)
-* [Contact](#contact)
-* [Other Related Work](#other-related-work)
-* [Acknowledgements](#acknowledgements)
+* [To-do list](#Todo)
+
 
 </p></details><p></p>
 
 ## What is this dataset?
+This is a paired dataset for laparoscopic image de-smoking, which can be used for evaluation, fine-tuning, and image analysis.
  
 
 ## Citing this dataset
-
+Coming soon.
 
 
 ## Data
 
-* The dataset has four files corresponding to one data sample: image, segmentation mask, centroid annotations, a PNG overview of the annotations.
+* The dataset contains over 900 pairs of smoky and smoke-free surgical images.
 
-* Data structure 
-    - 01_benchmark - Test data
+## To-do list
+- Keep expanding the dataset.
+- Provide mask for improved evaluation.
+- Fix some of the inaccracies within the dataset.
 
-* Sub-directory-based arrangement for each patient. File names are constructed of entities, a suffix and a file extension following the conventions of the Brain Imaging Data Structure (BIDS; https://bids.neuroimaging.io/)
-
-
-## Code
-
-
-## Contact
-For queries and issues not fit for a github issue, please email
 
