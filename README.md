@@ -20,7 +20,14 @@ This is a paired dataset for laparoscopic image de-smoking, which can be used fo
  
 
 ## Citing this dataset
-Coming soon.
+@inproceedings{xia2024new,
+  title={A New Benchmark In Vivo Paired Dataset for Laparoscopic Image De-smoking},
+  author={Xia, Wenyao and Fan, Victoria and Peters, Terry and Chen, Elvis CS},
+  booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
+  pages={3--13},
+  year={2024},
+  organization={Springer}
+}
 
 
 ## Data
