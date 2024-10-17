@@ -32,4 +32,7 @@ Xia, Wenyao, Fan, Victoria, Peters, Terry, and Chen, Elvis CS. "A New Benchmark 
 - Provide mask for improved evaluation.
 - Fix some of the inaccracies within the dataset.
 
+## Liscence
+This dataset is licensed under the [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0). You are free to use, modify, and distribute this dataset, provided proper attribution is given.
+
 
