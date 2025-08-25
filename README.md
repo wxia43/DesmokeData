@@ -20,9 +20,9 @@ This is a paired dataset for laparoscopic image de-smoking, which can be used fo
  
 
 ## Citing this dataset
-Please cite both:
-Xia, Wenyao, Terry M. Peters, Victoria Fan, Hamsini Sthanunathan, Olivia Qi, and Elvis CS Chen. "In Vivo Laparoscopic Image De-smoking Dataset, Evaluation, and Beyond." IEEE Transactions on Medical Imaging (2025).
-Xia, Wenyao, Fan, Victoria, Peters, Terry, and Chen, Elvis CS. "A New Benchmark In Vivo Paired Dataset for Laparoscopic Image De-smoking." International Conference on Medical Image Computing and Computer-Assisted Intervention (2024): 3-13.
+*Please cite both:
+*Xia, Wenyao, Terry M. Peters, Victoria Fan, Hamsini Sthanunathan, Olivia Qi, and Elvis CS Chen. "In Vivo Laparoscopic Image De-smoking Dataset, Evaluation, and Beyond." IEEE Transactions on Medical Imaging (2025).
+*Xia, Wenyao, Fan, Victoria, Peters, Terry, and Chen, Elvis CS. "A New Benchmark In Vivo Paired Dataset for Laparoscopic Image De-smoking." International Conference on Medical Image Computing and Computer-Assisted Intervention (2024): 3-13.
 
 
 
